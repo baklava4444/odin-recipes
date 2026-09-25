@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    height: auto;
+    width: 600px;
+}
+
+h1{
+    background-color: aqua;
+    color: purple;
+    border: 3px solid currentColor;
+}
+
+ul{
+    color: blue;
+    font-style: italic;
+}
+
+img {
+    border-color: black;
+    border-radius: 5%;
+    border-style: dashed;
+}
